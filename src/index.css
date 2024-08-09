@@ -370,6 +370,11 @@ ol {
   span.player-symbol {
     font-size: 20px;
   }
+  #game-board li ol li button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
   button {
     padding: 4px 8px;
